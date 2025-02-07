@@ -1,2 +1,6 @@
 bekir bunu main üzerinden düzenledi.
+<<<<<<< HEAD
 123123123123123 bekir
+=======
+bu satır tdb branch'inden düzenlendi.
+>>>>>>> tdb
